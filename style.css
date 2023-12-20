@@ -29,7 +29,7 @@ html {
 }
 
 .nav-link:hover {
-  color: var(--main-color);
+  color: red;
 }
 
 .welcome {
