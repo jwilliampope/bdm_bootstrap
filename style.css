@@ -87,6 +87,10 @@ html {
   transition: all 0.25s;
 }
 
+.img-fluid {
+  border-radius: 7px;
+}
+
 .img-cover:hover {
   opacity: 1;
 }
