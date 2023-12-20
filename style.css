@@ -1,4 +1,4 @@
-/* General --- Style */
+/* GLOBAL STYLES */
 :root {
   --main-color: #000033;
 }
@@ -10,7 +10,7 @@ html {
   scroll-behavior: smooth;
 }
 
-/* H O M E --- SECTION */
+/* HOME */
 .navbar-brand {
   width: 15%;
 }
@@ -52,7 +52,7 @@ html {
   background-color: #000080 !important;
 }
 
-/* S E R V I C E --- S SECTION */
+/* SERVICES */
 .s-icon {
   font-size: 4rem;
 }
@@ -80,7 +80,7 @@ html {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: rgba(255, 200, 0, 0.9);
+  background-color: rrgba(0, 0, 128, 0.9);
   left: 0;
   top: 0;
   opacity: 0;
@@ -91,7 +91,7 @@ html {
   opacity: 1;
 }
 
-/* A B O U T --- SECTION */
+/* ABOUT */
 
 .about-data {
   width: 35%;
